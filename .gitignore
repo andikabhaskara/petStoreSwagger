@@ -1,0 +1,11 @@
+#node modules
+node_modules/
+
+#package-lock
+package-lock.json
+
+#media
+videos/
+screenshots/
+
+cypress.json

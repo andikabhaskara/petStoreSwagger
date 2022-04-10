@@ -1,0 +1,16 @@
+{
+  "id": 9223372000001124000,
+  "category": {
+    "id": 0,
+    "name": "cat"
+  },
+  "name": "neko",
+  "photoUrls": ["www.google.com"],
+  "tags": [
+    {
+      "id": 0,
+      "name": "adoption"
+    }
+  ],
+  "status": "sold"
+}
